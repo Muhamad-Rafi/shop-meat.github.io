@@ -14,21 +14,21 @@ const testimonials: Testimonial[] = [
     id: 1,
     name: 'Sarah Johnson',
     role: 'Home Chef',
-    content: 'The quality of meat from Prime Cuts is exceptional. I've been a customer for years, and their ribeye steaks are always perfectly marbled and full of flavor.',
+    content: "The quality of meat from Prime Cuts is exceptional. I've been a customer for years, and their ribeye steaks are always perfectly marbled and full of flavor.",
     avatar: 'https://randomuser.me/api/portraits/women/1.jpg'
   },
   {
     id: 2,
     name: 'Michael Chen',
     role: 'Restaurant Owner',
-    content: 'As a restaurant owner, consistency is key. Prime Cuts delivers the same high-quality products every time, which is why they're our exclusive meat supplier.',
+    content: "As a restaurant owner, consistency is key. Prime Cuts delivers the same high-quality products every time, which is why they're our exclusive meat supplier.",
     avatar: 'https://randomuser.me/api/portraits/men/2.jpg'
   },
   {
     id: 3,
     name: 'Emily Rodriguez',
     role: 'Food Blogger',
-    content: 'I've tried meats from many butchers across the country, and Prime Cuts truly stands out. Their attention to detail and commitment to quality is unmatched.',
+    content: "I've tried meats from many butchers across the country, and Prime Cuts truly stands out. Their attention to detail and commitment to quality is unmatched.",
     avatar: 'https://randomuser.me/api/portraits/women/3.jpg'
   }
 ];
